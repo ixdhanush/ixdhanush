@@ -14,7 +14,7 @@
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-```js
+<pre><code class="language-js">
 const Dhanush = {
   name: "Dhanush Moorthy M",
   role: "DevOps Engineer",
@@ -37,8 +37,9 @@ const Dhanush = {
     design: ["Figma", "Photoshop"],
     languages: ["C", "C++", "Java", "JavaScript"]
   }
-}
-```
+}</pre>
+</code>
+  
 </td>
 <td width="50%" valign="top">
 <div align="center">

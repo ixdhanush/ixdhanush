@@ -16,7 +16,7 @@
 <td width="50%" valign="top">
 <pre><code class="language-js">
 const Dhanush = {
-  name: "Dhanush Moorthy M",
+  name: "Dhanush Moorthy.M",
   role: "DevOps Engineer",
   location: "India 🇮🇳",
   dailyLife: {

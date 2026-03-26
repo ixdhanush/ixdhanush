@@ -15,8 +15,8 @@
 <tr>
 <td width="50%" valign="top">
 ```js
-const Vaithi = {
-  name: "Vaithya S",
+const Dhanush = {
+  name: "Dhanush Moorthy M",
   role: "DevOps Engineer",
   location: "India 🇮🇳",
   dailyLife: {
@@ -129,7 +129,7 @@ const Vaithi = {
 <tr>
 <td width="50%">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaithi018&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffc107&text_color=fff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ixdhanush&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffc107&text_color=fff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 </td>
 <td width="50%">
@@ -141,7 +141,7 @@ const Vaithi = {
 </table>
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaithi018&custom_title=Contribution%20Graph&bg_color=0d1117&color=ff6b6b&line=ffc107&point=fff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ixdhanush&custom_title=Contribution%20Graph&bg_color=0d1117&color=ff6b6b&line=ffc107&point=fff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 <!-- Most Used Languages -->
 <div align="center">
@@ -154,7 +154,7 @@ const Vaithi = {
 </div>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/vaithya" target="_blank">
+  <a href="https://www.linkedin.com/in/dhanushmoorthy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
